@@ -4,7 +4,7 @@ import { data } from "@/data/data";
 import { RiInformationLine } from "react-icons/ri";
 import { AiOutlineCloseCircle } from "react-icons/ai";
 
-const customers = () => {
+const business = () => {
   return (
     <div className="bg-gray-100 min-h-screen">
       <div className="flex justify-end p-4 bg-white text-lg ">
@@ -209,4 +209,4 @@ const customers = () => {
   );
 };
 
-export default customers;
+export default business;

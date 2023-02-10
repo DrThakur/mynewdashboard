@@ -3,7 +3,7 @@ import { data } from "data/data";
 import { FaShoppingBag } from "react-icons/fa";
 import { BsArrowDownRight, BsArrowUpRight } from "react-icons/bs";
 
-const RecentOrders = () => {
+const RecentStocks = () => {
   return (
     <div className="w-full col-span-1 relative lg:h-[70vh] h-[50vh] m-auto p-4 border rounded-lg bg-white overflow-scroll shadow-[0_20px_27px_rgba(0,0,0,0.5)]">
       {/* <h1>Recent Orders</h1> */}
@@ -36,4 +36,4 @@ const RecentOrders = () => {
   );
 };
 
-export default RecentOrders;
+export default RecentStocks;

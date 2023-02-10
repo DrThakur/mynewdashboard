@@ -48,7 +48,7 @@ const Header = ({ children }) => {
                 <span className="pl-2">Proforma</span>
               </div>
             </Link>
-            <Link href="/orders">
+            <Link href="/business">
               <div className="flex flex-row items-center  hover:bg-gray-200 shadow-[0_25px_27px_rgba(0,0,0,0.5)]cursor-pointer my-4 p-3 rounded-lg">
                 <div className="bg-white-100 text-gray p-3 rounded-lg flex items-center">
                   <MdSwapHorizontalCircle size={20} />

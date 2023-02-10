@@ -7,9 +7,11 @@ import { AiOutlineCloseCircle } from "react-icons/ai";
 const customers = () => {
   return (
     <div className="bg-gray-100 min-h-screen">
-      <div className="flex justify-between p-4 bg-white text-lg ">
-        <h2 className="font-bold">Customer</h2>
-        <h2 className="font-thin">Welcome Back, Clint</h2>
+      <div className="flex justify-end p-4 bg-white text-lg ">
+        <h2 className="font-thin">Having trouble? </h2>
+        <h2 className="ml-2">
+          <a href="">Get Help</a>
+        </h2>
       </div>
       <div className="p-4">
         <div className="w-full  p-4 border rounded-lg bg-white overflow-scroll mr-28 ">

@@ -3,7 +3,7 @@ import Image from "next/image";
 // import Sidebar from "@/components/Sidebar";
 import TopCards from "@/components/TopCards";
 import BarChart from "@/components/BarChart";
-import RecentOrders from "@/components/RecentOrders";
+import RecentStocks from "@/components/RecentStocks";
 import Header from "@/components/Header";
 import Custom from "./custom";
 // import Sidebar from "@/components/Sidebar";
